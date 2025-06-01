@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081140761313",
+    "project_id": "goalgetter-6oux0",
+    "storage_bucket": "goalgetter-6oux0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081140761313:android:c464a7bed43c67785c5da0",
+        "android_client_info": {
+          "package_name": "atul.kaul.self"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPDP5bsh6rYW22i9SsoVQcirOWTlr0Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
